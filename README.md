@@ -44,6 +44,13 @@
 
 <br/>
 
+## ✔️ 참고 글
+- https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/FrontEnd
+- https://velog.io/@gwsyl22/Front-end-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%B0%B8%EA%B3%A0-%EC%82%AC%EC%9D%B4%ED%8A%B8
+- https://github.com/Esoolgnah/Frontend-Interview-Questions#star-%EC%A4%91%EC%9A%94%EB%8F%845
+
+<br/>
+
 ## ✔️ Convention
 
 > 하나 당 하나의 commit
